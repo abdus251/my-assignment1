@@ -1,0 +1,215 @@
+*{
+    margin: 0%;
+    font-family: 'Work Sans';
+}
+
+.banner-title{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    padding-right: 230px;
+    color: #151414;
+}
+
+.banner-description{position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 0;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;   
+}
+    
+.button{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    background-color: orangered;
+    color:white;
+    border:none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+/* My failures of previous year */
+.failure-title{
+position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+top: 1178px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+text-align: right;
+}
+
+.failure-description{
+position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+top: 1296px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+padding-bottom: 0px;
+margin-bottom: 16px;
+
+}
+
+.list{
+position: absolute;
+width: 247px;
+height: 26px;
+left: 862px;
+top: 1552px;
+padding-left: 30px;
+padding-top:0px;
+margin-top:0;
+}
+
+.failure-img{
+position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;    
+}
+
+/* My Plans */
+.plan{
+position: absolute;
+width: 179px;
+height: 47px;
+left: 711px;
+top: 1792.3px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+
+.plan-title{
+    position: absolute;
+width: 177px;
+height: 29px;
+left: 277px;
+top: 2063.26px;
+position: absolute;
+width: 270px;
+height: 35px;
+left: 230px;
+top: 2012.26px;
+}
+/* My plans */
+.what-i-do{
+    padding-top:1792.3;
+    
+}
+
+.skill-container{
+    display: flex;
+    gap: 54px;
+    padding-left: 230px;
+    padding-top: 1700;
+    margin-top:1700;
+}
+
+.skill-title{
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.skill-description{
+    font-weight: 500;
+font-size: 25px;
+}
+
+.mindset-title{
+font-weight: 700;
+font-size: 40px;
+padding-top: 2275;
+margin-top:2275 ;
+}
+
+.mindset{
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2216.3px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    border-radius: 8px;
+}
+.mindset-btn{
+width: 160px;
+height: 64px;
+left: 294px;
+top: 2393.3px;
+color:#F15B22;
+}
+
+.contact{
+    font-weight: 700;
+font-size: 45px;
+position: absolute;
+position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 2646.3px;
+display: flex;
+gap: 100px;
+background-color: #151414;
+padding-bottom: 20px;
+}
+.section-title{
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    padding-left: 230px;
+
+}
+.section-descriptio{
+    font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+left: 230px;
+top: 2845.3px;
+padding-left: 230px;
+
+}
+.sub{
+    color: #FFFFFF;
+}
+
+.back{
+    position: absolute;
+    background-color: #FFFFFF;
+}
+.social{
+    display: flex;
+}
